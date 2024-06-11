@@ -1,0 +1,40 @@
+Density_Error_list 均值: 0.2131671619879969
+Hotspot_Query_Error_list 均值: 0.4247599143231086
+Point_Query_AvRE_list 均值: 1.266610902255639
+Kendall_tau_list 均值: -0.008333333333333331
+Trip_error_list 均值: 0.6931471305599493
+Diameter_error_list 均值: 0.3530273790659654
+Length_error_list 均值: 0.5162732079239296
+Pattern_F1_error_list 均值: 0.01
+Pattern_support_error_list 均值: 0.33999999999999997
+----------------------------------
+Density_Error_list 均值: 0.4048631622456962
+Hotspot_Query_Error_list 均值: 1.0
+Point_Query_AvRE_list 均值: 1.4038477633477635
+Kendall_tau_list 均值: -0.1636904761904762
+Trip_error_list 均值: 0.6931471305599493
+Diameter_error_list 均值: 0.47660665677517766
+Length_error_list 均值: 0.5198603554199608
+Pattern_F1_error_list 均值: 0.0
+Pattern_support_error_list 均值: 0.98
+----------------------------------
+Density_Error_list 均值: 0.4121401753133392
+Hotspot_Query_Error_list 均值: 0.905389180073124
+Point_Query_AvRE_list 均值: 1.1655709845709845
+Kendall_tau_list 均值: -0.16666666666666666
+Trip_error_list 均值: 0.6931471305599493
+Diameter_error_list 均值: 0.28111687359231935
+Length_error_list 均值: 0.38401444609115154
+Pattern_F1_error_list 均值: 0.01
+Pattern_support_error_list 均值: 0.99
+----------------------------------
+Density_Error_list 均值: 0.5725215331789271
+Hotspot_Query_Error_list 均值: 1.0
+Point_Query_AvRE_list 均值: 1.030718698784875
+Kendall_tau_list 均值: -0.29594017094017094
+Trip_error_list 均值: 0.6931471305599493
+Diameter_error_list 均值: 0.6931471405599479
+Length_error_list 均值: 0.6931471405599479
+Pattern_F1_error_list 均值: 0.0
+Pattern_support_error_list 均值: 1.0
+----------------------------------
